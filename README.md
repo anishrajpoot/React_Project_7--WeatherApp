@@ -2,10 +2,6 @@
 
 A modern and responsive weather application built with **React** that allows users to search for the current weather of any city using real-time data from the **OpenWeatherMap API**.
 
-## 📸 Screenshots
-
-> ![App Screenshot](https://github.com/anishrajpoot/React_Project_7--WeatherApp/blob/081b1f805faf41b4f07fde6640e612ed36b1afc5/Project-7/src/assets/Screenshot%202025-06-15%20104416.png)
-
 
 ## 🚀 Features
 
@@ -25,4 +21,7 @@ A modern and responsive weather application built with **React** that allows use
 
 ### ✅ Run Locally
 
+## 📸 Screenshots
+
+![App Screenshot](https://github.com/anishrajpoot/React_Project_7--WeatherApp/blob/081b1f805faf41b4f07fde6640e612ed36b1afc5/Project-7/src/assets/Screenshot%202025-06-15%20104416.png)
 
