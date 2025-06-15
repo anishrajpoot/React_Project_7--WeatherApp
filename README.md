@@ -4,7 +4,7 @@ A modern and responsive weather application built with **React** that allows use
 
 ## 📸 Screenshots
 
-> ![App Screenshot](./screenshots/weather-ui.png)
+> ![App Screenshot](https://github.com/anishrajpoot/React_Project_7--WeatherApp/blob/081b1f805faf41b4f07fde6640e612ed36b1afc5/Project-7/src/assets/Screenshot%202025-06-15%20104416.png)
 
 
 ## 🚀 Features
